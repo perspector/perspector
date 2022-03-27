@@ -1,4 +1,14 @@
-### Hi there 👋
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
+### 👋 Hi! I'm Benny. 
+#### My hobbies include:
+- 🛩️ Building remote controlled airplanes
+- 🐍 Programming in Python
+- 🐧 Linux
+- 🥧 Raspberry Pi
+
+#### Currently Working On:
+- 💬 [OSA - The Open Source Assistant]()
 
 <!--
 **BennyThePythonCoder/BennyThePythonCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
