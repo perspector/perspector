@@ -18,5 +18,5 @@
 - 🥧 Raspberry Pi
 
 ### Currently Working On:
-- 💬 [OSA - The Open Source Assistant](https://github.com/perspector/OSA)
+- 💬 [My Portfolio Website perspector.github.io](https://github.com/perspector/perspector.github.io)
 - [Collatz Cruncher](https://github.com/perspector/Collatz-Cruncher)
