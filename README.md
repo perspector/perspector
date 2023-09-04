@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-## 👋 Hi! I'm Benjamin.
+## 👋 Greetings! I'm Benjamin.
 <!--![perspector's GitHub stats](https://github-readme-stats.vercel.app/api?username=perspector&show_icons=true) -->
 
 ### 🛠️ Languages and Tools
