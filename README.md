@@ -14,7 +14,7 @@
 ### My hobbies include:
 - 🛩️ Building remote controlled airplanes
 - 🐍 Programming in Python
-- 🐧 Linux
+- 🐧 [GNU/Linux](https://www.gnu.org/gnu/thegnuproject.html)
 - 🥧 Raspberry Pi
 
 ### Currently Working On:
