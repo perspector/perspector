@@ -19,5 +19,6 @@
 - 🥧 Raspberry Pi
 
 ### Currently Working On:
+- Schoolwork
 - [My Portfolio Website perspector.github.io](https://github.com/perspector/perspector.github.io)
 - [Collatz Cruncher](https://github.com/perspector/Collatz-Cruncher)
