@@ -21,4 +21,5 @@
 ### Currently Working On:
 - Schoolwork
 - [My Portfolio Website perspector.github.io](https://github.com/perspector/perspector.github.io)
-- [Collatz Cruncher](https://github.com/perspector/Collatz-Cruncher)
+- [Collatz Cruncher](https://github.com/perspector/Collatz-Cruncher))
+- Helping to translate [Rnote](https://github.com/flxzt/rnote) to German, you can help [here](https://hosted.weblate.org/projects/rnote/repo/)
