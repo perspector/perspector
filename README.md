@@ -22,4 +22,5 @@
 - Schoolwork
 - [My Portfolio Website perspector.github.io](https://github.com/perspector/perspector.github.io)
 - [Collatz Cruncher](https://github.com/perspector/Collatz-Cruncher))
-- Helping to translate [Rnote](https://github.com/flxzt/rnote) to German, you can help [here](https://hosted.weblate.org/projects/rnote/repo/)
+- Helping to translate [Rnote](https://github.com/flxzt/rnote) to German, you can help [here](https://hosted.weblate.org/projects/rnote/repo/).\
+Total translation status:  [![Translation status](https://hosted.weblate.org/widget/rnote/svg-badge.svg)](https://hosted.weblate.org/engage/rnote/)
