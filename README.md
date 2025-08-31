@@ -21,7 +21,7 @@
   - I use Autodesk Fusion and Inventor
 
 ### Currently Working On:
-- Schoolwork
+- Studying _Sustainable Engineering and Future Technologies_ at HTWG Konstanz in Germany
 - [My Portfolio Website perspector.github.io](https://github.com/perspector/perspector.github.io)
 - [The "Chordinator," a tool to help beginners learning to play guitar](https://perspector.github.io/engineering/edd/capstone.html)
 - [The "PiVibe," a DIY 3D printed, Raspberry Pi based music looper](https://perspector.github.io/other-projects/both/pivibe.html)
