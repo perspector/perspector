@@ -25,7 +25,7 @@
 - [My Portfolio Website perspector.github.io](https://github.com/perspector/perspector.github.io)
 - [The "Chordinator," a tool to help beginners learning to play guitar](https://perspector.github.io/engineering/edd/capstone.html)
 - [The "PiVibe," a DIY 3D printed, Raspberry Pi based music looper](https://perspector.github.io/other-projects/both/pivibe.html)
-- [Collatz Cruncher](https://github.com/perspector/Collatz-Cruncher))
+- [Collatz Cruncher](https://github.com/perspector/Collatz-Cruncher)
 - Helping to translate [Rnote](https://github.com/flxzt/rnote) to German, you can help [here](https://hosted.weblate.org/projects/rnote/repo/).\
 As of now, German translation status is: [![Translation status](https://hosted.weblate.org/widget/rnote/repo/de/svg-badge.svg)](https://hosted.weblate.org/engage/rnote/-/de/)\
 Total translation status:  [![Translation status](https://hosted.weblate.org/widget/rnote/svg-badge.svg)](https://hosted.weblate.org/engage/rnote/)
