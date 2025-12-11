@@ -10,7 +10,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perspector&exclude_repo=perspector.github.io)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perspector&exclude_repo=perspector.github.io) -->
 
 ### Hobbies:
 - 3D printing and designing functional parts
